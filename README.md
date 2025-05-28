@@ -1,4 +1,5 @@
-Tugas Besar Pengolahan Citra Digital
+TUGAS BESAR PENGOLAHAN CITRA DIGITAL
+
 
 Ketua : Muhammad Taufiq Rahman Hakim 152023119
 
@@ -13,3 +14,4 @@ Program ini dirancang untuk melakukan ekstraksi fitur dari citra RGB yang berisi
   3. Fitur Tekstur (contoh: GLCM, LBP, kontras, entropi).
 
 Tujuan utama dari program ini adalah untuk membedakan objek sampah menjadi beberapa kategori menggunakan teknik ekstraksi fitur citra.
+
